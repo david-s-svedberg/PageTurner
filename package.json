@@ -1,0 +1,26 @@
+{
+    "author": "david.s.svedberg@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "pageturner",
+    "pebble": {
+        "displayName": "PageTurner",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "PAGE_TURN"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite"
+        ],
+        "uuid": "2f5b7972-a1fa-46dd-be6f-f0931213151d",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
